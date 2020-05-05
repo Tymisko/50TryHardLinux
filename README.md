@@ -5,7 +5,7 @@ How to Linux
 
 1. [Uzyskanie informacji o użytkownikach](questions/uzyskanie-informacji-o-uzytkownikach.md)
 1. [Wyświetlanie komunikatów na ekranie](questions/wyswietlanie-komunikatow-na-ekranie.md)
-1. [Grupowanie poleceń](questions/3_grupowanie_polecen.md)
+1. [Grupowanie poleceń](questions/3_Grupowanie_polecen.md)
 1. [Historia Poleceń]
 1. [Uzyskanie informacji o poleceniach]
 1. [Polecenia do zarzadzania plikami]
