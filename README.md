@@ -3,53 +3,53 @@ How to Linux
 
 ## Spis treści
 
-1. [Uzyskanie informacji o użytkownikach](questions/uzyskanie-informacji-o-uzytkownikach.md)
-1. [Wyświetlanie komunikatów na ekranie](questions/wyswietlanie-komunikatow-na-ekranie.md)
+1. [Uzyskanie informacji o użytkownikach](questions/1_Uzyskanie_informacji_o_uzytkownikach.md)
+1. [Wyświetlanie komunikatów na ekranie](questions/2_Wyswietlanie_komunikatow_na_ekranie.md)
 1. [Grupowanie poleceń](questions/3_Grupowanie_polecen.md)
-1. [Historia Poleceń]
-1. [Uzyskanie informacji o poleceniach]
-1. [Polecenia do zarzadzania plikami]
-1. [Wyświetlanie zawartości katalogów i woluminów (pełna informacja o plikach w poleceniu ls.)
-1. [Zmiana praw dostępu]
-1. [Tworzenie katalogów i plików]
-1. [Edycja plików tekstowych]
-1. [Kopiowanie oraz przenoszenie plików]
-1. [Usuwanie plików i katalogów]
-1. [Kompresja i archiwizacja plików]
-1. [Dekompresja plików]
-1. [Tworzenie kopii zapasowej]
-1. [Uruchamianie serwera ssh]
-1. [Praca na zdalnych serwerach]
-1. [Polecenia do zarządzania procesami]
-1. [Zarządzanie procesami]
-1. [Przetwarzanie danych tekstowych]
-1. [Poszukiwanie wiersza zawierającego wzorzec]
-1. [Kontrola danych tekstowych]
-1. [Zmiana powłoki systemu Linux]
-1. [Podstawowe powłoki systemu Linux]
-1. [Pisanie i uruchamianie skryptów]
-1. [Systemy plików Linux]
-1. [Montowanie i odmontowanie nośników trwałych.
-1. [Podział dysku na partycje]
-1. [Tworzenie systemu plików na partycji]
-1. [Partycje dysków twardych i ich podgląd]
-1. [Zmiana rozmiaru patrycji FAT/ext]
-1. [Zmiana rozmiaru NTFS]
-1. [Tworzenie pamięci wymiany, pliku]
-1. [Tworzenie partycji wymiany]
-1. [Połączenia sieciowe]
-1. [Manipulowanie plikami tekstowymi]
-1. [Większe możliwości manipulacji na plikach tekstowych awk]
-1. [Podstawowe informacje o komputerze]
-1. [Przeglądanie stron WWW]
-1. [Przesyłanie komunikatów]
-1. [Czas i data systemowa]
-1. [Planowanie zadań]
-1. [Katalogi w Linux]
-1. [Wyrażenai regularne - znaczenie]
-1. [Metaznaki i ich wykorzystanie w systemie Linux]
-1. [Uzyskanie pomocy w manualiach i podręczniku]
-1. [Charakterystyka systemów wielodostępowych]
-1. [Charakterystyka głównych cech systemu Linux]
-1. [Praca w tle. Licencja GNU. Terminale i konsole - zdalne konsole]
-1. [Podstawy obsługi X - uruchamianie X z poziomu terminala]
+1. [Historia Poleceń](questions/4_Historia_polecen.md)
+1. [Uzyskanie informacji o poleceniach](questions/5_Uzyskanie_informacji_o_poleceniach.md)
+1. [Polecenia do zarzadzania plikami](questions/6_Polecenia_do_zarzadzania_plikami.md)
+1. [Wyświetlanie zawartości katalogów i woluminów (pełna informacja o plikach w poleceniu ls)](questions/7_Wyswietlenie_zawartosci_katalogow_woluminow.md)
+1. [Zmiana praw dostępu](questions/8_Zmiana_praw_dostepu.md)
+1. [Tworzenie katalogów i plików](questions/9_Tworzenie_katalogow_i_plikow.md)
+1. [Edycja plików tekstowych](questions/10_Edycja_plikow_tekstowych.md)
+1. [Kopiowanie oraz przenoszenie plików](questions/11_Kopiowanie_oraz_przenoszenie_plikow.md)
+1. [Usuwanie plików i katalogów](questions/12_Usuwanie_plikow_i_katalogow.md)
+1. [Kompresja i archiwizacja plików](questions/13_Kompresja_i_archiwizacja_plikow.md)
+1. [Dekompresja plików](questions/14_Dekompresja_plikow.md)
+1. [Tworzenie kopii zapasowej](questions/15_Tworzenie_kopii_zapasowej.md)
+1. [Uruchamianie serwera ssh](questions/16_Uruchamianie_serwera_ssh.md)
+1. [Praca na zdalnych serwerach](questions/17_Praca_na_zdalnych_serwerach.md)
+1. [Polecenia do zarządzania procesami](questions/18_Polecenia_do_zarzadzania_procesami.md)
+1. [Zarządzanie procesami](questions/19_Zarzadzanie_procesami.md)
+1. [Przetwarzanie danych tekstowych](questions/20_Przetwarzanie_danych_tekstowych.md)
+1. [Poszukiwanie wiersza zawierającego wzorzec](questions/21_Poszukiwanie_wiersza_zawierajacego_wzorzec.md)
+1. [Kontrola danych tekstowych](questions/22_Kontrola_danych_tekstowych.md)
+1. [Zmiana powłoki systemu Linux](questions/23_Zmiana_powłoki_i_znaku_zachety.md)
+1. [Podstawowe powłoki systemu Linux](questions/24_Podstawowe_powloki_systemu_Linux.md)
+1. [Pisanie i uruchamianie skryptów](questions/25_Pisanie_i_uruchamianie_skryptow.md)
+1. [Systemy plików Linux](questions/26_Systemy_plikow_Linux.md)
+1. [Montowanie i odmontowanie nośników trwałych](questions/27_Montowanie_i_odmontowanie_nosnikow_trwalych.md)
+1. [Podział dysku na partycje](questions/28_Podzial_dysku_na_partycje.md)
+1. [Tworzenie systemu plików na partycji](questions/29_Tworzenie_systemu_plikow_na_partycji.md)
+1. [Partycje dysków twardych i ich podgląd](questions/30_Partycje_dyskow_twardych_i_ich_podglad.md)
+1. [Zmiana rozmiaru patrycji FAT/ext](questions/31_Zmiana_rozmiaru_partycji_FAT_ext.md)
+1. [Zmiana rozmiaru NTFS](questions/32_Zmiana_rozmiaru_NTFS.md)
+1. [Tworzenie pamięci wymiany, pliku](questions/33_Tworzenie_pamieci_wymiany_pliku.md)
+1. [Tworzenie partycji wymiany](questions/34_Tworzenie_partycji_wymiany.md)
+1. [Połączenia sieciowe](questions/35_Polaczenia_sieciowe.md)
+1. [Manipulowanie plikami tekstowymi](questions/36_Manipulowanie_plikami_tekstowymi.md)
+1. [Większe możliwości manipulacji na plikach tekstowych awk](questions/37_Wieksze_mozliwosci_manipulacji_na_plikach_tekstowych_awk.md)
+1. [Podstawowe informacje o komputerze](questions/38_Podstawowe_informacje_o_komputerze.md)
+1. [Przeglądanie stron WWW](questions/39_Przegladanie_stron_www.md)
+1. [Przesyłanie komunikatów](questions/40_Przesylanie_komunikatow.md)
+1. [Czas i data systemowa](questions/41_Czas_i_data_systemowa.md)
+1. [Planowanie zadań](questions/42_Planowanie_zadan.md)
+1. [Katalogi w Linux](questions/43_Katalogi_w_Linux.md)
+1. [Wyrażenai regularne - znaczenie](questions/44_Wyrazenia_regularne_znaczenie.md)
+1. [Metaznaki i ich wykorzystanie w systemie Linux](questions/45_Metaznaki_regularne_znaczenie.md)
+1. [Uzyskanie pomocy w manualiach i podręczniku](questions/46_Uzyskanie_pomocy_w_manualiach_i_podreczniku.md)
+1. [Charakterystyka systemów wielodostępowych](questions/47_Charakterystyka_systemow_wielodostepowych.md)
+1. [Charakterystyka głównych cech systemu Linux](questions/48_Charakterystyka_glownych_cech_systemu_Linux.md)
+1. [Praca w tle. Licencja GNU. Terminale i konsole - zdalne konsole](questions/49_Praca_w_tle_licencja_GNU_Terminale_i_konsole_zdalne_konsole.md)
+1. [Podstawy obsługi X - uruchamianie X z poziomu terminala](questions/50_Podstawy_obslugi_x_uruchamianie_x_z_poziomu_terminala.md)
