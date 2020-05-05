@@ -1,1 +1,0 @@
-# Grupowanie poleceń
