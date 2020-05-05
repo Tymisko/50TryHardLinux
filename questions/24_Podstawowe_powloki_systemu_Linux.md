@@ -1,0 +1,1 @@
+# Podstawowe powłoki systemu Linux

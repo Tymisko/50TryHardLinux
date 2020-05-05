@@ -1,0 +1,1 @@
+# Wyświetlanie zawartości katalogów i woluminów (pełna informacja o plikach w polecenaich ls.)

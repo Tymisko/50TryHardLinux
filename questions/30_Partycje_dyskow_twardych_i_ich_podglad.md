@@ -1,0 +1,1 @@
+# Partycje dysków twardych i ich podgląd

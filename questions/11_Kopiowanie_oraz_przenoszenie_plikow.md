@@ -1,0 +1,1 @@
+# Kopiowanie oraz przenoszenie plików

@@ -1,0 +1,1 @@
+# Tworzenie pamięci wymiany, pliku

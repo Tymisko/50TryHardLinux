@@ -1,0 +1,1 @@
+# Zmiana powłoki i znaku zachęty

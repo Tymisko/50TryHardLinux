@@ -1,0 +1,1 @@
+# Większe mozliwości manipulacji na plikach tekstowych awk

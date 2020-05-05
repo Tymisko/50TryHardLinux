@@ -1,0 +1,1 @@
+# Praca w tle. Licencja GNU. Terminale i konsole - zdalne konsole.

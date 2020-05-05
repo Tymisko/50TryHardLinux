@@ -1,0 +1,1 @@
+# Zmiana rozmiaru partycji FAT/ext

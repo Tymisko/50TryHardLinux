@@ -1,0 +1,1 @@
+# Pisanie i uruchamianie skryptów

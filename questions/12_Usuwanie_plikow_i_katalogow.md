@@ -1,0 +1,1 @@
+# Usuwanie plików i katalogów

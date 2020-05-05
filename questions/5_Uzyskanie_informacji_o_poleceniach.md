@@ -1,0 +1,1 @@
+# Uzyskanie informacji o poleceniach

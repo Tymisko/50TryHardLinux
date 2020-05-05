@@ -1,0 +1,1 @@
+# Poszukiwanie wiersza zawierającego wzorzec

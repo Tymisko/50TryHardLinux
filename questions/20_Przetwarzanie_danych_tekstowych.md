@@ -1,0 +1,1 @@
+# Przetwarzanie danych tekstowych

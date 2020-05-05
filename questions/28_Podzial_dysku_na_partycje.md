@@ -1,0 +1,1 @@
+# Podział dysku na partycje

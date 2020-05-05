@@ -1,0 +1,1 @@
+# Przesyłanie komunikatów

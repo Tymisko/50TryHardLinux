@@ -1,0 +1,1 @@
+# Zmiana praw dostępu

@@ -1,0 +1,1 @@
+# Charakterystyka głównych cech systemu Linux

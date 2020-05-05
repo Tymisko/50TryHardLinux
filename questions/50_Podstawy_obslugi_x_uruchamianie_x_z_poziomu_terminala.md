@@ -1,0 +1,1 @@
+# Podstawy obsługi X - uruchamianie X z poziomu terminala

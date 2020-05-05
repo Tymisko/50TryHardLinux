@@ -1,0 +1,1 @@
+# Tworzenie kopii zapasowej
