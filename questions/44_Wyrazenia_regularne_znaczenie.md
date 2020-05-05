@@ -1,1 +1,1 @@
-# Wyrażenia regularne znaczenie
+# Wyrażenia regularne - znaczenie
