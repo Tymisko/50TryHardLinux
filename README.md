@@ -25,7 +25,7 @@ How to Linux
 1. [Przetwarzanie danych tekstowych](questions/20_Przetwarzanie_danych_tekstowych.md)
 1. [Poszukiwanie wiersza zawierającego wzorzec](questions/21_Poszukiwanie_wiersza_zawierajacego_wzorzec.md)
 1. [Kontrola danych tekstowych](questions/22_Kontrola_danych_tekstowych.md)
-1. [Zmiana powłoki systemu Linux](questions/23_Zmiana_powłoki_i_znaku_zachety.md)
+1. [Zmiana powłoki i znaku zachęty](questions/23_Zmiana_powłoki_i_znaku_zachety.md)
 1. [Podstawowe powłoki systemu Linux](questions/24_Podstawowe_powloki_systemu_Linux.md)
 1. [Pisanie i uruchamianie skryptów](questions/25_Pisanie_i_uruchamianie_skryptow.md)
 1. [Systemy plików Linux](questions/26_Systemy_plikow_Linux.md)
