@@ -41,7 +41,7 @@
 
 	### Przykład:
 	#### *`$ lastlog -u user`*
-##### *//wynik: informacje o ostatnim logowaniu uzytkownika*
+	##### *//wynik: informacje o ostatnim logowaniu uzytkownika*
 ---
 * ## _**last**_ - lista ostatnio zalogowanych użytkowników
 		$ last
