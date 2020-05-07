@@ -36,7 +36,7 @@
 		$ lastlog -u <nazwa_uzytkownika>
 
 
-		-u 	//Wyświetla ostatni rejest określonego użytkownika
+		-u 	//Wyświetla ostatni rejestr określonego użytkownika
 		-a 	//wyświetla wszystkie rekordy
 
 ### Przykład:
