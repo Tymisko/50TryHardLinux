@@ -7,7 +7,7 @@
 
 
 	### Przykład
-	> **`$ finger user`**
+	**`$ finger user`**
 	*//wynik: imię i nazwisko, scieżka katalogu domowego, powłoka, login itd.*
 
 	```$ who -u```
