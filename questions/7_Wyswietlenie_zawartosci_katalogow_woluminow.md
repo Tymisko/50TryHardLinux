@@ -1,32 +1,36 @@
-<style type='text/css'>
-* {font-family: 'Courier New'}
-example {color:green;}
-h1 {
-    font-family:'Segoe UI Semibold';
-    font-size: 5vw;
-    }
-h2 {
-    font-family:'Segoe UI Light';
-    font-size: 4vw;
-    }
-h2 {background-color: yellow;color: black;}
-</style>
-{
-  "markdown.styles": ["../styles/style.css"]
-}
-# 7. Wyświetlanie zawartości katalogów i woluminów (pełna informacja o plikach w polecenaich ls.)
+# Wyświetlanie zawartości katalogów i woluminów (pełna informacja o plikach w polecenaich ls.)
 
-* <h2><span>polecenie</span> - opis</h2>
-
+* ## polecenie - opis
+    
         $ polecenie <opcje>
 
-        -v | --verbose //wynik
-        
-<example>Przykłady:</examples>
+        -v | --verbose //wynik 
 
-`$ polecnie `
+    ### Przykłady:
 
-//wynik: *wynik*
+
+    <kbd>*`$ cp plik0 /home/user/desktop/plik0_kopia `*</kbd>
+    
+    //wynik: *kopiuje plik0 z biezacego katalogu do miejsca docelowego jako plik0_kopia*
+
+    <kbd>*`$ cp -i plik0.txt plik0_kopia.txt `*</kbd>
+    
+    //wynik: *kopiuje plik0 jako plik0_kopia i pyta o potwierdzenie*
+
+    |*`$ cp plik0 /home/user/desktop/plik0_kopia `*|
+    |:-------------:|
+    |//wynik: *kopiuje plik0 z biezacego katalogu do miejsca docelowego jako plik0_kopia*|
+
+    |*`$ cp -i plik0.txt plik0_kopia.txt `*|
+    |:-------------:|
+    |//wynik: *kopiuje plik0 jako plik0_kopia i pyta o potwierdzenie*|
+
+    `$ cp plik0 /home/user/desktop/plik0_kopia`
+
+    *//wynik: kopiuje plik0 z biezacego katalogu do miejsca docelowego jako plik0_kopia*
+
+    `$ cp -i plik0.txt plik0_kopia.txt `
+
+    *//wynik: kopiuje plik0 jako plik0_kopia i pyta o potwierdzenie*
 
 ---
-</link>
