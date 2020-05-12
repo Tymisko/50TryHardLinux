@@ -36,12 +36,12 @@
 		$ lastlog -u <nazwa_uzytkownika>
 
 
-		-u 	//Wyświetla ostatni rejestr określonego użytkownika
+		-u 	//Wyświetla ostatni rejest określonego użytkownika
 		-a 	//wyświetla wszystkie rekordy
 
-	### Przykład:
-	#### *`$ lastlog -u user`*
-	##### *//wynik: informacje o ostatnim logowaniu uzytkownika*
+### Przykład:
+#### *`$ lastlog -u user`*
+##### *//wynik: informacje o ostatnim logowaniu uzytkownika*
 ---
 * ## _**last**_ - lista ostatnio zalogowanych użytkowników
 		$ last
@@ -53,7 +53,7 @@
 ---
 * ## _**grep**_ - lista wierszy zawierająca nazwę użytkownika
 		$ grep -i <nazwa_uzytkownika> /etc/passwd
-	##### *//wynik: linie zawierające <nazwa_uzytkownika> w pliku passwd*
+	##### *//wynik: linie zawierające <nazwa_uzytkownika> w pliku passwd
 ---
 
 
