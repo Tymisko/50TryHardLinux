@@ -6,11 +6,28 @@
 
         -v | --verbose //wynik 
 
-    ### Przykłady:
+## Przykłady:
+###
+        polecenie
+        //wynik: *wynik*
+###
+        polecenie
+        //wynik: *wynik*
+###
+        polecenie
+        //wynik: *wynik*
 
-    `$ polecenie`
 
-    //wynik: *wynik*
+   `$ polecenie`
+
+//wynik: *wynik*
+
+   `$ polecenie`
+
+//wynik: *wynik*
+
+
+        
 
 ---
 
