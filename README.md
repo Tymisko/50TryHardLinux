@@ -1,6 +1,8 @@
 # 50TryHardLinux
 How to Linux
 
+**[Schemat dodawania pytań](scheme.md)**
+
 ## Spis treści
 
 - [x] 1. [Uzyskanie informacji o użytkownikach](questions/1_Uzyskanie_informacji_o_uzytkownikach.md)
