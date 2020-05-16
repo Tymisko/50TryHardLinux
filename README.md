@@ -3,11 +3,11 @@ How to Linux
 
 ## Spis treści
 
-1. [Uzyskanie informacji o użytkownikach](questions/1_Uzyskanie_informacji_o_uzytkownikach.md)
-1. [Wyświetlanie komunikatów na ekranie](questions/2_Wyswietlanie_komunikatow_na_ekranie.md)
-1. [Grupowanie poleceń](questions/3_Grupowanie_polecen.md)
-1. [Historia Poleceń](questions/4_Historia_polecen.md)
-1. [Uzyskanie informacji o poleceniach](questions/5_Uzyskanie_informacji_o_poleceniach.md)
+- [x] 1. [Uzyskanie informacji o użytkownikach](questions/1_Uzyskanie_informacji_o_uzytkownikach.md)
+- [x] 2. [Wyświetlanie komunikatów na ekranie](questions/2_Wyswietlanie_komunikatow_na_ekranie.md)
+3. [Grupowanie poleceń](questions/3_Grupowanie_polecen.md)
+4. [Historia Poleceń](questions/4_Historia_polecen.md)
+5. [Uzyskanie informacji o poleceniach](questions/5_Uzyskanie_informacji_o_poleceniach.md)
 1. [Polecenia do zarzadzania plikami](questions/6_Polecenia_do_zarzadzania_plikami.md)
 1. [Wyświetlanie zawartości katalogów i woluminów (pełna informacja o plikach w poleceniu ls)](questions/7_Wyswietlenie_zawartosci_katalogow_woluminow.md)
 1. [Zmiana praw dostępu](questions/8_Zmiana_praw_dostepu.md)
