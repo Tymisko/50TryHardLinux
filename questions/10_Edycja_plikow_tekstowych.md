@@ -1,6 +1,6 @@
 # Edycja plików tekstowych
 
-* ## ***Nano*** - edytor tekstu oparty na 
+* ## ***Nano*** - edytor tekstu oparty na terminalu
         $ nano <plik>
 
         ^	        //symbolizuje klawisz „ctrl” w menu.
