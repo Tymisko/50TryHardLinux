@@ -9,12 +9,12 @@
         ^ + W	    //szukanie łańcucha znaków
  
     ### **Przykłady**:
-    #### `Ctrl + W`
+    #### `Ctrl + W` - szukanie wzorca
         Jednoczesne kliknięcie obu klawiszy, powoduje rozpoczęcie wprowadzania szukanego wzorca.
         
         Kliknięcie klawisza Enter, wskaze pierwszy wynik, aby zobaczyć następny należy kliknąć [ALT+W]
 
-    #### `$ Ctrl + \`
+    #### `$ Ctrl + \` - szukanie wzorca i zmienianie go
         Szukanie wprowadzonego wzorca i zamienianie go.
 
         Należy wpisac szukany wzorzec, kliknięcie klawisza enter spowoduje przejście do pierwszego znalezionego wzorca.
@@ -23,18 +23,18 @@
         
         Wciśnięcie klawisza A powoduje zamianę wszystkich znalezionych wzorców.*
 
-    #### `Alt + a `
+    #### `Alt + a ` - zaznaczanie tekstu
         Rozpoczyna zaznaczanie tekstu, przenieś kursor na koniec tekstu który chcesz zaznaczyć. 
         
         Aby anulować zaznaczenie kliknij Ctrl + 6
 
-    #### `Alt + 6`
+    #### `Alt + 6` - kopiowanie
         Kopiuje zaznaczony tekst
-    #### `Ctrl + k`
+    #### `Ctrl + k` - wycinanie
         wycina zaznaczony tekst
-    #### `Ctrl + u`
+    #### `Ctrl + u` - wklejanie 
         wkleja tekst ze schowka
-    #### `Ctrl + o`
+    #### `Ctrl + o` - zapisywanie
         zapisuje zmiany w pliku, jeśli nie istnieje - tworzy go
 ---
 * ## ***Gedit*** - łatwy w użyciu edytor tekstu w wersji GUI 
