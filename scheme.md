@@ -1,13 +1,39 @@
+```
 # Zagadnienie
 
-* ## ***polecenie*** - opis
-        $ polecenie <opcje>
+## `polecenie` - opis
+    $ polecenie <opcje>
 
-        -v | --verbose //wynik   
-    ### **Przykłady**:
-    #### `$ polecenie `
-    ##### //wynik: *wynik*
+    -s | --switch // opis switcha
+
+**Przykłady**:
+
+    $ polecenie
+*wynik: informacje o wyniku*
+
 ---
+
+## `inne_polecenie` - opis innego polecenia
+[...]
+```
+
+**Przykład:**
+
+# Zagadnienie
+
+## `polecenie` - opis
+    $ polecenie <opcje>
+
+    -s | --switch // opis switcha
+
+**Przykłady**:
+
+    $ polecenie
+*wynik: informacje o wyniku*
+
+---
+
+## `inne_polecenie` - opis innego polecenia
 
 
 Jeśli powyzszy schemat nie pasuje do danego zagadnienia, staramy sie zachowac "podobienstwo".
