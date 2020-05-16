@@ -1,5 +1,3 @@
-[TOC]
-
 # Uzyskiwanie informacji o użytkownikach
 
 ## `whoami` - nazwa uzytkownika wprowadzajacego to polecenie 
