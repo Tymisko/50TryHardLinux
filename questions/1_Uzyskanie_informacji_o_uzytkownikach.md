@@ -50,8 +50,8 @@
 ## `lastlog` - ostatnie logowanie
 		$ lastlog -u <nazwa_uzytkownika>
 
-		-u 	//Wyświetla ostatni rejest określonego użytkownika
-		-a 	//wyświetla wszystkie rekordy
+		-u 	// Wyświetla ostatni rejest określonego użytkownika
+		-a 	// Wyświetla wszystkie rekordy
 
 **Przykład:**
 
